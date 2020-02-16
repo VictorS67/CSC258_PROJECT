@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Nov 28 14:28:12 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : RunningPikachu
+Top-level Entity Name : RunningPikachu
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 1,171 / 32,070 ( 4 % )
+Total registers : 580
+Total pins : 92 / 457 ( 20 % )
+Total virtual pins : 0
+Total block memory bits : 57,610 / 4,065,280 ( 1 % )
+Total RAM Blocks : 9 / 397 ( 2 % )
+Total DSP Blocks : 0 / 87 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 6 ( 17 % )
+Total DLLs : 0 / 4 ( 0 % )

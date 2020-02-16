@@ -1,0 +1,1125 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_C'
+Slack : -8.602
+TNS   : -17.127
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|change_time[0]'
+Slack : -7.555
+TNS   : -228.050
+
+Type  : Slow 1100mV 85C Model Setup 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : -6.649
+TNS   : -22.930
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_T_1'
+Slack : -5.953
+TNS   : -5.953
+
+Type  : Slow 1100mV 85C Model Setup 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : -5.873
+TNS   : -5.873
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_A_1'
+Slack : -5.843
+TNS   : -5.843
+
+Type  : Slow 1100mV 85C Model Setup 'datapath:d0|bird_y[1]'
+Slack : -5.688
+TNS   : -16.484
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_I_1'
+Slack : -5.542
+TNS   : -5.542
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_A'
+Slack : -5.455
+TNS   : -5.455
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_T'
+Slack : -5.452
+TNS   : -5.452
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_U_1'
+Slack : -5.328
+TNS   : -5.328
+
+Type  : Slow 1100mV 85C Model Setup 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : -5.296
+TNS   : -15.579
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_N'
+Slack : -5.290
+TNS   : -5.290
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_N_1'
+Slack : -5.281
+TNS   : -5.281
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_R_1'
+Slack : -5.252
+TNS   : -5.252
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_N_2'
+Slack : -5.219
+TNS   : -5.219
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_U'
+Slack : -5.206
+TNS   : -5.206
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_I'
+Slack : -5.146
+TNS   : -5.146
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.DRAW_R'
+Slack : -5.002
+TNS   : -5.002
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -4.715
+TNS   : -641.221
+
+Type  : Slow 1100mV 85C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 33.417
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.364
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.370
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'datapath:d0|bird_y[1]'
+Slack : 0.745
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.905
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : 1.116
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|change_time[0]'
+Slack : 1.200
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_C'
+Slack : 1.616
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_A'
+Slack : 2.579
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_R'
+Slack : 3.001
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_I'
+Slack : 3.303
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_R_1'
+Slack : 3.347
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_U'
+Slack : 3.460
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_T'
+Slack : 3.463
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_N_2'
+Slack : 3.524
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_A_1'
+Slack : 3.613
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_N_1'
+Slack : 3.618
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_N'
+Slack : 3.624
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_U_1'
+Slack : 3.639
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_I_1'
+Slack : 3.763
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.DRAW_T_1'
+Slack : 3.970
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : -5.558
+TNS   : -5.558
+
+Type  : Slow 1100mV 85C Model Recovery 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : -5.484
+TNS   : -5.484
+
+Type  : Slow 1100mV 85C Model Recovery 'datapath:d0|bird_y[1]'
+Slack : -4.992
+TNS   : -4.992
+
+Type  : Slow 1100mV 85C Model Removal 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.923
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'datapath:d0|bird_y[1]'
+Slack : 0.936
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 1.096
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|change_time[0]'
+Slack : 0.175
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_A'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_C'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_R'
+Slack : 0.241
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_I'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_R_1'
+Slack : 0.280
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_U_1'
+Slack : 0.324
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_U'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_I_1'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'datapath:d0|bird_y[1]'
+Slack : 0.367
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_A_1'
+Slack : 0.377
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N_2'
+Slack : 0.410
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.426
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_T_1'
+Slack : 0.432
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_T'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N_1'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.865
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.768
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_C'
+Slack : -8.724
+TNS   : -17.346
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|change_time[0]'
+Slack : -7.512
+TNS   : -230.660
+
+Type  : Slow 1100mV 0C Model Setup 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : -6.739
+TNS   : -23.240
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_T_1'
+Slack : -6.038
+TNS   : -6.038
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_A_1'
+Slack : -6.005
+TNS   : -6.005
+
+Type  : Slow 1100mV 0C Model Setup 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : -5.929
+TNS   : -5.929
+
+Type  : Slow 1100mV 0C Model Setup 'datapath:d0|bird_y[1]'
+Slack : -5.814
+TNS   : -16.899
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_I_1'
+Slack : -5.627
+TNS   : -5.627
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_A'
+Slack : -5.590
+TNS   : -5.590
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_U_1'
+Slack : -5.508
+TNS   : -5.508
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_T'
+Slack : -5.488
+TNS   : -5.488
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_R_1'
+Slack : -5.414
+TNS   : -5.414
+
+Type  : Slow 1100mV 0C Model Setup 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : -5.396
+TNS   : -15.828
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_N'
+Slack : -5.351
+TNS   : -5.351
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_N_1'
+Slack : -5.337
+TNS   : -5.337
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_U'
+Slack : -5.311
+TNS   : -5.311
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_N_2'
+Slack : -5.279
+TNS   : -5.279
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_I'
+Slack : -5.264
+TNS   : -5.264
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.DRAW_R'
+Slack : -5.094
+TNS   : -5.094
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -4.409
+TNS   : -566.115
+
+Type  : Slow 1100mV 0C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 33.567
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.070
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'datapath:d0|bird_y[1]'
+Slack : 0.815
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.872
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|change_time[0]'
+Slack : 0.965
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : 1.055
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_C'
+Slack : 1.456
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_A'
+Slack : 2.642
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_R'
+Slack : 3.063
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_I'
+Slack : 3.350
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_R_1'
+Slack : 3.450
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_U'
+Slack : 3.526
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_T'
+Slack : 3.534
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_N_2'
+Slack : 3.551
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_N_1'
+Slack : 3.653
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_N'
+Slack : 3.668
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_A_1'
+Slack : 3.687
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_U_1'
+Slack : 3.739
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_I_1'
+Slack : 3.820
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.DRAW_T_1'
+Slack : 4.010
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : -5.648
+TNS   : -5.648
+
+Type  : Slow 1100mV 0C Model Recovery 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : -5.540
+TNS   : -5.540
+
+Type  : Slow 1100mV 0C Model Recovery 'datapath:d0|bird_y[1]'
+Slack : -5.148
+TNS   : -5.148
+
+Type  : Slow 1100mV 0C Model Removal 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.924
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'datapath:d0|bird_y[1]'
+Slack : 0.948
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 1.012
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|change_time[0]'
+Slack : 0.168
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_A'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_C'
+Slack : 0.219
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_R'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_I'
+Slack : 0.281
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_R_1'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_U'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_U_1'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : 0.366
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_I_1'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_A_1'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'datapath:d0|bird_y[1]'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N_2'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_T_1'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_T'
+Slack : 0.437
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N_1'
+Slack : 0.446
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.821
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.746
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_C'
+Slack : -4.798
+TNS   : -9.551
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|change_time[0]'
+Slack : -4.342
+TNS   : -110.106
+
+Type  : Fast 1100mV 85C Model Setup 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : -3.516
+TNS   : -11.487
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -3.301
+TNS   : -452.087
+
+Type  : Fast 1100mV 85C Model Setup 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : -3.097
+TNS   : -3.097
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_T_1'
+Slack : -2.968
+TNS   : -2.968
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_A_1'
+Slack : -2.910
+TNS   : -2.910
+
+Type  : Fast 1100mV 85C Model Setup 'datapath:d0|bird_y[1]'
+Slack : -2.811
+TNS   : -7.758
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_I_1'
+Slack : -2.739
+TNS   : -2.739
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_T'
+Slack : -2.666
+TNS   : -2.666
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_N'
+Slack : -2.638
+TNS   : -2.638
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_N_1'
+Slack : -2.636
+TNS   : -2.636
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_N_2'
+Slack : -2.599
+TNS   : -2.599
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_U_1'
+Slack : -2.590
+TNS   : -2.590
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_A'
+Slack : -2.570
+TNS   : -2.570
+
+Type  : Fast 1100mV 85C Model Setup 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : -2.568
+TNS   : -7.504
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_U'
+Slack : -2.531
+TNS   : -2.531
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_R_1'
+Slack : -2.529
+TNS   : -2.529
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_I'
+Slack : -2.468
+TNS   : -2.468
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.DRAW_R'
+Slack : -2.374
+TNS   : -2.374
+
+Type  : Fast 1100mV 85C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 35.849
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.241
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'datapath:d0|bird_y[1]'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|change_time[0]'
+Slack : 0.557
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : 0.652
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.685
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_C'
+Slack : 1.145
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_A'
+Slack : 1.424
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_R'
+Slack : 1.720
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_I'
+Slack : 1.921
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_R_1'
+Slack : 1.925
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_U'
+Slack : 2.021
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_T'
+Slack : 2.037
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_U_1'
+Slack : 2.117
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_N_2'
+Slack : 2.122
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_A_1'
+Slack : 2.134
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_N_1'
+Slack : 2.184
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_N'
+Slack : 2.185
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_I_1'
+Slack : 2.231
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.DRAW_T_1'
+Slack : 2.379
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : -2.911
+TNS   : -2.911
+
+Type  : Fast 1100mV 85C Model Recovery 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : -2.867
+TNS   : -2.867
+
+Type  : Fast 1100mV 85C Model Recovery 'datapath:d0|bird_y[1]'
+Slack : -2.468
+TNS   : -2.468
+
+Type  : Fast 1100mV 85C Model Removal 'datapath:d0|bird_y[1]'
+Slack : 0.537
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.558
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.789
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_A'
+Slack : 0.195
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_R'
+Slack : 0.258
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_I'
+Slack : 0.292
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|change_time[0]'
+Slack : 0.309
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_C'
+Slack : 0.309
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_R_1'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_U'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_U_1'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_A_1'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_T'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N_2'
+Slack : 0.406
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_I_1'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N'
+Slack : 0.408
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'datapath:d0|bird_y[1]'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N_1'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.444
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.DRAW_T_1'
+Slack : 0.489
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.813
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.887
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_C'
+Slack : -4.441
+TNS   : -8.861
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|change_time[0]'
+Slack : -3.930
+TNS   : -102.990
+
+Type  : Fast 1100mV 0C Model Setup 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : -3.316
+TNS   : -10.757
+
+Type  : Fast 1100mV 0C Model Setup 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : -2.932
+TNS   : -2.932
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_T_1'
+Slack : -2.847
+TNS   : -2.847
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_A_1'
+Slack : -2.803
+TNS   : -2.803
+
+Type  : Fast 1100mV 0C Model Setup 'datapath:d0|bird_y[1]'
+Slack : -2.717
+TNS   : -7.449
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -2.677
+TNS   : -348.799
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_I_1'
+Slack : -2.648
+TNS   : -2.648
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_T'
+Slack : -2.563
+TNS   : -2.563
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_U_1'
+Slack : -2.520
+TNS   : -2.520
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_N'
+Slack : -2.517
+TNS   : -2.517
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_N_1'
+Slack : -2.513
+TNS   : -2.513
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_A'
+Slack : -2.507
+TNS   : -2.507
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_R_1'
+Slack : -2.480
+TNS   : -2.480
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_N_2'
+Slack : -2.476
+TNS   : -2.476
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_U'
+Slack : -2.444
+TNS   : -2.444
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_I'
+Slack : -2.410
+TNS   : -2.410
+
+Type  : Fast 1100mV 0C Model Setup 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : -2.387
+TNS   : -7.043
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.DRAW_R'
+Slack : -2.311
+TNS   : -2.311
+
+Type  : Fast 1100mV 0C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 36.279
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'datapath:d0|bird_y[1]'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : 0.585
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.605
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|change_time[0]'
+Slack : 0.619
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_C'
+Slack : 0.979
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_A'
+Slack : 1.494
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_R'
+Slack : 1.741
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_I'
+Slack : 1.927
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_R_1'
+Slack : 1.939
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_U'
+Slack : 2.013
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_T'
+Slack : 2.031
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_N_2'
+Slack : 2.087
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_U_1'
+Slack : 2.115
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_A_1'
+Slack : 2.121
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_N_1'
+Slack : 2.143
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_N'
+Slack : 2.148
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_I_1'
+Slack : 2.203
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.DRAW_T_1'
+Slack : 2.330
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : -2.748
+TNS   : -2.748
+
+Type  : Fast 1100mV 0C Model Recovery 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : -2.735
+TNS   : -2.735
+
+Type  : Fast 1100mV 0C Model Recovery 'datapath:d0|bird_y[1]'
+Slack : -2.397
+TNS   : -2.397
+
+Type  : Fast 1100mV 0C Model Removal 'datapath:d0|bird_y[1]'
+Slack : 0.495
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.515
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.681
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_A'
+Slack : 0.254
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_R'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|change_time[0]'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_I'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_C'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_R_1'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_U'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_U_1'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'datapath:d0|pikachu_y_dead_counter[0]'
+Slack : 0.409
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_A_1'
+Slack : 0.415
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N'
+Slack : 0.420
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N_2'
+Slack : 0.423
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_I_1'
+Slack : 0.424
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_T'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'datapath:d0|pikachu_y_down_counter[0]'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'datapath:d0|bird_y[1]'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_N_1'
+Slack : 0.449
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'datapath:d0|pikachu_y_up_counter[0]'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.DRAW_T_1'
+Slack : 0.483
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.807
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.885
+TNS   : 0.000
+
+------------------------------------------------------------
